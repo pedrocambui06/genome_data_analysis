@@ -156,7 +156,7 @@ bash scripts/run_all.sh
 ## Repository Structure
 
 ```
-qiime2-moving-pictures-analysis/
+QIIME2_genome_data_analysis_project/
 ├── README.md
 ├── LICENSE
 ├── pictures/class-pictures

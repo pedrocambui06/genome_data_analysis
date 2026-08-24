@@ -196,9 +196,10 @@ This project was my introduction to several concepts that I built on for later c
 
 ## Acknowledgments
 
+- Special thanks to Professor Seth Wollney, faculty member at the College of Staten Island, for teaching the bioinformatics class and introducing the QIIME 2 workflow used in this project.
 - This analysis follows the official [QIIME 2 "Moving Pictures" tutorial](https://docs.qiime2.org/2024.10/tutorials/moving-pictures/) (QIIME 2 development team).
 - Dataset originally published in Caporaso et al., *"Moving pictures of the human microbiome"*, Genome Biology (2011).
-- Completed as part of a bioinformatics class during my academic mobility exchange under the **Talentos Paraná no Mundo** program.
+- Completed as part of a bioinformatics class during my academic mobility exchange under the **Paraná Talents Around the World** program.
 
 ## License
 

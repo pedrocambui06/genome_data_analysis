@@ -1,4 +1,4 @@
-# QIIME 2 "Moving Pictures" Tutorial — Microbiome Amplicon Analysis
+# QIIME 2 Genome Data Analysis
 
 A step-by-step, reproducible walkthrough of the QIIME 2 **"Moving Pictures"** tutorial, run entirely on **Windows 11 via WSL (Windows Subsystem for Linux)**. This repository documents the full 16S rRNA amplicon analysis pipeline: from raw multiplexed sequencing reads to diversity metrics, taxonomy, and differential abundance testing.
 

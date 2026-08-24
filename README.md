@@ -2,7 +2,7 @@
 
 A step-by-step, reproducible walkthrough of the QIIME 2 **"Moving Pictures"** tutorial, run entirely on **Windows 11 via WSL (Windows Subsystem for Linux)**. This repository documents the full 16S rRNA amplicon analysis pipeline: from raw multiplexed sequencing reads to diversity metrics, taxonomy, and differential abundance testing.
 
-> 🎓 **Academic context:** This project was completed during my academic mobility exchange in the United States as part of the **"Talentos Paraná no Mundo"** program (Programa Talentos Paraná no Mundo), an international exchange program for Paraná state university students. The analysis was done as a guided, hands-on tutorial during a bioinformatics class, where the instructor walked through the pipeline live and students followed along executing each command themselves. This was my first hands-on introduction to Linux command-line workflows, conda environments, and microbiome bioinformatics.
+> 🎓 **Academic context:** This project was completed during my academic mobility exchange in the United States as part of the **"Talentos Paraná no Mundo"** program (Paraná Talents Around the World), an international exchange program for Paraná state university students. The analysis was done as a guided, hands-on tutorial during a bioinformatics class, where the instructor walked through the pipeline live and students followed along executing each command themselves. This was my first hands-on introduction to Linux command-line workflows, conda environments, and microbiome bioinformatics.
 
 ## Table of Contents
 

@@ -159,6 +159,11 @@ bash scripts/run_all.sh
 qiime2-moving-pictures-analysis/
 ├── README.md
 ├── LICENSE
+├── pictures/class-pictures
+    ├── alfa-beta-analysis-picture.jpeg
+    ├── command-line-picture.jpeg
+    ├── group-professor-picture.jpeg
+    ├── qime2-introduction-picture.jpeg
 ├── .gitignore
 └── scripts/
     ├── 01_download_data.sh

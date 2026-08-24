@@ -194,6 +194,35 @@ This project was my introduction to several concepts that I built on for later c
 - Reading and interpreting **interactive scientific visualizations** (Emperor PCoA plots, rarefaction curves, taxa bar plots)
 - Basic **statistical testing** applied to biological data (PERMANOVA, Kruskal-Wallis-based group significance)
 
+## Class Pictures
+<div align="center">
+  <img src="pictures/class-pictures/qime2-introduction-picture.jpeg" width="400" alt="Imagem">
+  <p style="margin-top: 5px; font-size: 0.85em; color: #888;">
+    <i>QIIME2 Introduction Class</i>
+  </p>
+</div>
+
+<div align="center">
+  <img src="pictures/class-pictures/command-line-picture.jpeg" width="400" alt="Imagem">
+  <p style="margin-top: 5px; font-size: 0.85em; color: #888;">
+    <i>Data Analysis Executed Directly Via Command Line</i>
+  </p>
+</div>
+
+<div align="center">
+  <img src="pictures/class-pictures/alfa-beta-analysis-picture.jpeg" width="400" alt="Imagem">
+  <p style="margin-top: 5px; font-size: 0.85em; color: #888;">
+    <i>Alpha and Beta Diversity Analysis</i>
+  </p>
+</div>
+
+<div align="center">
+  <img src="pictures/class-pictures/group-professor-picture.jpeg" width="400" alt="Imagem">
+  <p style="margin-top: 5px; font-size: 0.85em; color: #888;">
+    <i>Biology Lab Tour - College of Staten Island</i>
+  </p>
+</div>
+
 ## Acknowledgments
 
 - Special thanks to Professor Seth Wollney, faculty member at the College of Staten Island, for teaching the bioinformatics class and introducing the QIIME 2 workflow used in this project.

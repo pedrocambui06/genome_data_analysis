@@ -122,8 +122,8 @@ If you see the QIIME 2 command list, you're ready to go.
 Clone this repository, then move into it:
 
 ```bash
-git clone https://github.com/<your-username>/qiime2-moving-pictures-analysis.git
-cd qiime2-moving-pictures-analysis
+git clone https://github.com/<your-username>/QIIME2_genome_data_analysis_project.git
+cd QIIME2_genome_data_analysis_project
 conda activate qiime2-amplicon-2024.10
 ```
 
